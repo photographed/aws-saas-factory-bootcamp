@@ -11,7 +11,7 @@
     "request": "^2.81.0",
     "async": "latest",
     "winston": "latest",
-    "aws-sdk": "^2.24.0"
+    "aws-sdk": "^2.1475.0"
   },
   "author": "Amazon Web Services",
   "license": "Apache2.0"
