@@ -10,7 +10,7 @@
     "jwt-decode": "latest",
     "request": "^2.81.0",
     "async": "latest",
-    "winston": "latest",
+    "winston": "3.11.0",
     "aws-sdk": "^2.24.0"
   },
   "author": "Amazon Web Services",
