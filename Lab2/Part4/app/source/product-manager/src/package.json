@@ -7,13 +7,13 @@
     "test": "echo \"Error: no tests currently specified\""
   },
   "dependencies": {
-    "aws-sdk": "^2.24.0",
-    "aws-xray-sdk": "^1.2.0",
+    "aws-sdk": "^2.275.1",
+    "aws-xray-sdk": "^3.5.1",
     "body-parser": "latest",
     "config": "1.25.1",
     "express": "latest",
     "uuid": "3.0.1",
-    "winston": "latest"
+    "winston": "3.3.4"
   },
   "author": "Amazon Web Services",
   "contributors": [
