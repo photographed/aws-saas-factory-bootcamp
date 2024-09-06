@@ -9,8 +9,8 @@
   "dependencies": {
     "jwt-decode": "latest",
     "request": "^2.81.0",
-    "async": "latest",
-    "winston": "latest",
+    "async": "3.0.0",
+    "winston": "3.3.4",
     "aws-sdk": "^2.24.0"
   },
   "author": "Amazon Web Services",
