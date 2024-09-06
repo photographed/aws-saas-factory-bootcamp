@@ -7,7 +7,7 @@
     "test": "echo \"Error: no tests currently specified\""
   },
   "dependencies": {
-    "winston": "latest",
+    "winston": "3.3.4",
     "aws-sdk": "^2.24.0"
   },
   "author": "Amazon Web Services",
