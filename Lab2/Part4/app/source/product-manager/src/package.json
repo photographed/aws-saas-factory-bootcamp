@@ -9,9 +9,9 @@
   "dependencies": {
     "aws-sdk": "^2.24.0",
     "aws-xray-sdk": "^1.2.0",
-    "body-parser": "latest",
+    "body-parser": "1.20.3",
     "config": "1.25.1",
-    "express": "latest",
+    "express": "4.21.0",
     "uuid": "3.0.1",
     "winston": "latest"
   },
