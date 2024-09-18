@@ -11,7 +11,7 @@
     "aws-xray-sdk": "^1.2.0",
     "body-parser": "latest",
     "config": "1.25.1",
-    "express": "latest",
+    "express": "4.20.0",
     "uuid": "3.0.1",
     "winston": "latest"
   },
