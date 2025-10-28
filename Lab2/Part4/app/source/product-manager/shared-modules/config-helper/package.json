@@ -7,7 +7,7 @@
     "test": "echo \"Error: no tests currently specified\""
   },
   "dependencies": {
-    "config": "^1.25.1",
+    "config": "^1.31.0",
     "winston": "latest"
   },
   "author": "Amazon Web Services",
